@@ -33,7 +33,7 @@ mods = {
 }
 
 # Mod log function
-line = -1
+line = 0
 
 def log(s):
     global line
