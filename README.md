@@ -6,7 +6,7 @@ A modpack for domcraft.
 2. Click `Add Instance`
 3. Click `Import from zip`
 4. Add `https://github.com/dom64/dompack/archive/master.zip` in the prompt.
-5. Click `Ok`
+5. Click `OK`
 
 ## Changelogs
 Changelogs can be [found here](https://github.com/dom64/dompack/commits/master)
