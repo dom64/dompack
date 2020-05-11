@@ -109,7 +109,7 @@
                 "gui" : "custom.dompackcredits"
             }
         },
-        
+        //Never remove the fucking refresh button, and if I find 	   //that the button has been fucking removed after having 	   //to load up this god forsaken modpack for 85 minutes 	    	   //straight I will rip out the intestines of whoever   		   //removed it.
         "refresh":
         {
             "text" : "",
