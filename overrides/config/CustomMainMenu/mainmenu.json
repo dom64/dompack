@@ -3,7 +3,7 @@
     {
         "title":
         {
-            "image" : "modpack:textures/gui/domcraft.png",
+            "image" : "modpack:textures/gui/domcraft1.png",
             "posX" : -137,
             "posY" : 30,
             "width" : 275,
@@ -40,21 +40,7 @@
                 "gui" : "singleplayer"
             }
         },
-        
-        "multiplayer":
-        {
-            "text" : "menu.multiplayer",
-            "posX" : -100,
-            "posY" : 72,
-            "width" : 200,
-            "height" : 20,
-            "action" : 
-            {
-                "type" : "openGui",
-                "gui" : "multiplayer"
-            }
-        },
-        
+                
         "mods":
         {
             "text" : "fml.menu.mods",
@@ -83,6 +69,34 @@
             }
         },
         
+        "multiplayer small":
+        {
+            "text" : "Multiplayer",
+            "posX" : 2,
+            "posY" : 72,
+            "width" : 98,
+            "height" : 20,
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "multiplayer"
+            }
+        },
+//try and get it to pull the ip from Domcraft_ip on git later
+         "server button":
+        {
+            "text" : "Domcraft",
+            "posX" : -100,
+            "posY" : 72,
+            "width" : 98,
+            "height" : 20,
+            "action" : 
+            {
+                "type" : "connectToServer",
+                "ip" : "678772187"
+            }
+        },
+
         "quit":
         {
             "text" : "menu.quit",
@@ -96,17 +110,18 @@
             }
         },
         
-        "language":
+        "Chungon":
         {
             "text" : "",
             "posX" : -124,
             "posY" : 132,
             "width" : 20,
             "height" : 20,
+            "texture" : "modpack:buttons/Chungontexture.png",
             "action" : 
             {
                 "type" : "openGui",
-                "gui" : "custom.dompackcredits"
+                "gui" : "custom.placeholder"
             }
         },
         //Never remove the fucking refresh button, and if I find 	   //that the button has been fucking removed after having 	   //to load up this god forsaken modpack for 85 minutes 	    	   //straight I will rip out the intestines of whoever   		   //removed it.
