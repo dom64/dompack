@@ -82,9 +82,10 @@
                 "gui" : "multiplayer"
             }
         },
+//try and get it to pull the ip from Domcraft_ip on git later
          "server button":
         {
-            "text" : "Join domcraft",
+            "text" : "Domcraft",
             "posX" : -100,
             "posY" : 72,
             "width" : 98,
@@ -108,7 +109,21 @@
                 "type" : "quit"
             }
         },
-        
+
+        "dompackcreditsmenuchange":
+        {
+            "text" : "Credits",
+            "posX" : 160,
+            "posY" : 72,
+            "width" : 46  ,
+            "height" : 20,
+            "action" : 
+            {
+                "type" : "openGUI",
+                "gui" : "custom.dompackcredits"
+            }
+        },
+
         "Chungon":
         {
             "text" : "",
@@ -116,13 +131,14 @@
             "posY" : 132,
             "width" : 20,
             "height" : 20,
-            "texture" : "modpack:buttons/Chungontexture.png",
+            "texture" : "modpack:textures/buttons/Chungontexture.png",
             "action" : 
             {
                 "type" : "openGui",
                 "gui" : "custom.placeholder"
             }
         },
+        //Refresh button is my only solice in life.
         "refresh":
         {
             "text" : "",

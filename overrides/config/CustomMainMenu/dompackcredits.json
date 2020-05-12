@@ -1,0 +1,220 @@
+{
+    "images":
+    {
+        "title":
+        {
+            "image" : "modpack:textures/gui/domcraft1.png",
+            "posX" : -137,
+            "posY" : 30,
+            "width" : 275,
+            "height" : 50,
+            "imageWidth" : 1606,
+            "imageHeight" : 319,
+            "alignment" : "top_center",
+            "hoverImage" : "modpack:textures/gui/domcraft2.png"
+        },
+//This whole section is a really shitty way to accomplish //constantly up to date playerheads without needing an online //connection.
+         "CrazyC787offline":
+        {
+            "image" : "modpack:playerheads/CrazyC787.png",
+            "posX" : 72,
+            "posY" : -40,
+            "width" : 46,
+            "height" : 46,
+            "alignment" : "center"
+        },
+          "CrazyC787online":
+        {
+            "image" : "web:https://minotar.net/avatar/CrazyC787.png",
+            "posX" : 72,
+            "posY" : -40,
+            "width" : 46,
+            "height" : 46,
+            "alignment" : "center"
+        },
+
+            "dom64offline":
+        {
+            "image" : "modpack:playerheads/dom64.png",
+            "posX" : -20,
+            "posY" : -40,
+            "width" : 46,
+            "height" : 46,
+            "alignment" : "center"
+        },
+          "dom64online":
+        {
+            "image" : "web:https://minotar.net/avatar/dom64.png",
+            "posX" : -20,
+            "posY" : -40,
+            "width" : 46,
+            "height" : 46,
+            "alignment" : "center"
+        },
+           "Jadcoffline":
+        {
+            "image" : "modpack:playerheads/Jadc.png",
+            "posX" : -112,
+            "posY" : -40,
+            "width" : 46,
+            "height" : 46,
+            "alignment" : "center"
+        },
+          "Jadconline":
+        {
+            "image" : "web:https://minotar.net/avatar/Jadc.png",
+            "posX" : -112,
+            "posY" : -40,
+            "width" : 46,
+            "height" : 46,
+            "alignment" : "center"
+        },
+          "Userhead":
+        {
+            "image" : "web:https://minotar.net/avatar/#username#.png",
+            "posX" : -20,
+            "posY" : 52,
+            "width" : 46,
+            "height" : 46,
+            "alignment" : "center"
+        },
+
+        
+        "edition":
+        {
+            "image" : "custommainmenu:textures/gui/edition.png",
+            "posX" : -49,
+            "posY" : 67,
+            "width" : 128,
+            "height" : 16,
+            "alignment" : "top_center"
+        }
+      },
+//X coordinates might be fucked, but I'm too tired to care.
+    "buttons":
+    {
+              
+         "dom64button":
+        {
+            "text" : "dom64",
+            "posX" : -27,
+            "posY" : 76, 
+            "width" : 60  ,
+            "height" : 20,
+            "allignment" : center,
+            "action" : 
+            {
+                "type" : "openLink",
+                "link" : "https://github.com/dom64"
+            }
+        },
+        "Brazybutton":
+        {
+            "text" : "Brazy",
+            "posX" : 65,
+            "posY" : 76,
+            "width" : 60  ,
+            "height" : 20,
+            "allignment" : center,
+            "action" : 
+            {
+                "type" : "openLink",
+                "link" : "https://github.com/CrazyC787"
+            }
+        },
+         "Jadbutton":
+        {
+            "text" : "Jad",
+            "posX" : -119,
+            "posY" : 76,
+            "width" : 60  ,
+            "height" : 20,
+            "allignment" : center,
+            "action" : 
+            {
+                "type" : "openLink",
+                "link" : "https://github.com/dom64"
+            }
+        },
+          "Userbutton":
+        {
+            "text" : "#username#",
+            "posX" : -27,
+            "posY" : 168,
+            "width" : 60  ,
+            "height" : 20,
+            "allignment" : center,
+            "action" : 
+            {
+                "type" : "openLink",
+                "link" : "https://github.com/#username#"
+            }
+        },
+
+
+                      
+        "dompackcreditsmenuchange":
+        {
+            "text" : "Menu",
+            "posX" : -208,
+            "posY" : 72,
+            "width" : 46  ,
+            "height" : 20,
+            "allignment" : center,
+            "action" : 
+            {
+                "type" : "openGUI",
+                "gui" : "mainmenu"
+            }
+        }
+     },
+    
+    "labels":
+    {
+        "mojang":
+        {
+            "text" : "Copyright Domcord. Distribute!",
+            "hoverText" : "§nCopyright Domcord. Distribute!",
+            "posX" : -176,
+            "posY" : -10,
+            "color" : -1,
+            "alignment" : "bottom_right",
+            "action" : 
+            {
+                "type" : "openLink",
+                "link" : "https://discord.gg/EMDEuab"
+            }
+        },
+        
+        "Not fml":
+        {
+            "text" : "",
+            "posX" : 2,
+            "posY" : -40,
+            "color" : -1,
+            "alignment" : "bottom_left"
+        }
+    },
+    
+    "other":
+    {
+        "splash-text":
+        {
+            "posX" : 90,
+            "posY" : 70,
+            "color" : -256,
+            "alignment" : "top_center",
+            "texts" : "The Gangstas"
+        },
+        
+        "panorama":
+        {
+            "images" : "modpack:textures/gui/title/background/panorama_%c.png",
+            "animate" : true,
+            "animationSpeed" : 1,
+            "blur" : true,
+            "gradient" : true,
+            "synced" : true
+        }
+    }
+}
