@@ -82,10 +82,9 @@
                 "gui" : "multiplayer"
             }
         },
-//try and get it to pull the ip from Domcraft_ip on git later
          "server button":
         {
-            "text" : "Domcraft",
+            "text" : "Join domcraft",
             "posX" : -100,
             "posY" : 72,
             "width" : 98,
@@ -124,7 +123,6 @@
                 "gui" : "custom.placeholder"
             }
         },
-        //Never remove the fucking refresh button, and if I find 	   //that the button has been fucking removed after having 	   //to load up this god forsaken modpack for 85 minutes 	    	   //straight I will rip out the intestines of whoever   		   //removed it.
         "refresh":
         {
             "text" : "",
