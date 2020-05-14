@@ -85,7 +85,7 @@
 //try and get it to pull the ip from Domcraft_ip on git later
          "server button":
         {
-            "text" : "Domcraft",
+            "text" : "domcraft",
             "posX" : -100,
             "posY" : 72,
             "width" : 98,
