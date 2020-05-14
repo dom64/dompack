@@ -12,41 +12,31 @@
             "imageHeight" : 319,
             "alignment" : "top_center",
             "hoverImage" : "modpack:textures/gui/domcraft2.png"
-        },
-        
-        "edition":
-        {
-            "image" : "custommainmenu:textures/gui/edition.png",
-            "posX" : -49,
-            "posY" : 67,
-            "width" : 128,
-            "height" : 16,
-            "alignment" : "top_center"
         }
     },
     
     "buttons":
     {
-        "singleplayer":
+        "server_button":
         {
-            "text" : "menu.singleplayer",
+            "text" : "Join Server",
             "posX" : -100,
             "posY" : 48,
             "width" : 200,
-            "height" : 20,
+            "height" : 20, 
             "action" : 
             {
-                "type" : "openGui",
-                "gui" : "singleplayer"
+                "type" : "connectToServer",
+                "ip" : "678772187"
             }
         },
                 
         "mods":
         {
             "text" : "fml.menu.mods",
-            "posX" : -100,
+            "posX" : 2,
             "posY" : 96,
-            "width" : 200,
+            "width" : 98,
             "height" : 20,
             "action" : 
             {
@@ -58,9 +48,9 @@
         "options":
         {
             "text" : "menu.options",
-            "posX" : -100,
+            "posX" : -78,
             "posY" : 132,
-            "width" : 98,
+            "width" : 77,
             "height" : 20,
             "action" : 
             {
@@ -71,7 +61,7 @@
         
         "multiplayer small":
         {
-            "text" : "Multiplayer",
+            "text" : "menu.multiplayer",
             "posX" : 2,
             "posY" : 72,
             "width" : 98,
@@ -82,18 +72,17 @@
                 "gui" : "multiplayer"
             }
         },
-//try and get it to pull the ip from Domcraft_ip on git later
-         "server button":
+        "singleplayer":
         {
-            "text" : "domcraft",
+            "text" : "menu.singleplayer",
             "posX" : -100,
             "posY" : 72,
             "width" : 98,
             "height" : 20,
             "action" : 
             {
-                "type" : "connectToServer",
-                "ip" : "678772187"
+                "type" : "openGui",
+                "gui" : "singleplayer"
             }
         },
 
@@ -113,9 +102,9 @@
         "dompackcreditsmenuchange":
         {
             "text" : "Credits",
-            "posX" : 160,
-            "posY" : 72,
-            "width" : 46  ,
+            "posX" : -100,
+            "posY" : 96,
+            "width" : 98,
             "height" : 20,
             "action" : 
             {
@@ -127,22 +116,21 @@
         "Chungon":
         {
             "text" : "",
-            "posX" : -124,
-            "posY" : 132,
+            "posX" : -10,
+            "posY" : 156,
             "width" : 20,
             "height" : 20,
-            "texture" : "modpack:textures/buttons/Chungontexture.png",
+            "texture" : "modpack:textures/gui/buttons/chungon.png",
             "action" : 
             {
                 "type" : "openGui",
                 "gui" : "custom.placeholder"
             }
         },
-        //Refresh button is my only solice in life.
         "refresh":
         {
             "text" : "",
-            "posX" : -154,
+            "posX" : -100,
             "posY" : 132,
             "width" : 20,
             "height" : 20,
@@ -156,29 +144,7 @@
     
     "labels":
     {
-        "mojang":
-        {
-            "text" : "Copyright Mojang AB. Do not distribute!",
-            "hoverText" : "§nCopyright Mojang AB. Do not distribute!",
-            "posX" : -197,
-            "posY" : -10,
-            "color" : -1,
-            "alignment" : "bottom_right",
-            "action" : 
-            {
-                "type" : "openGui",
-                "gui" : "credits"
-            }
-        },
         
-        "fml":
-        {
-            "text" : "",
-            "posX" : 2,
-            "posY" : -40,
-            "color" : -1,
-            "alignment" : "bottom_left"
-        }
     },
     
     "other":
@@ -198,7 +164,7 @@
             "animate" : true,
             "animationSpeed" : 1,
             "blur" : true,
-            "gradient" : true
+            "gradient" : false
         }
     }
 }

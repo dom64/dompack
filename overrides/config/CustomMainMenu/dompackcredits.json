@@ -16,7 +16,7 @@
 //This whole section is a really shitty way to accomplish //constantly up to date playerheads without needing an online //connection.
          "CrazyC787offline":
         {
-            "image" : "modpack:playerheads/CrazyC787.png",
+            "image" : "modpack:textures/heads/CrazyC787.png",
             "posX" : 72,
             "posY" : -40,
             "width" : 46,
@@ -35,7 +35,7 @@
 
             "dom64offline":
         {
-            "image" : "modpack:playerheads/dom64.png",
+            "image" : "modpack:textures/heads/dom64.png",
             "posX" : -20,
             "posY" : -40,
             "width" : 46,
@@ -53,7 +53,7 @@
         },
            "Jadcoffline":
         {
-            "image" : "modpack:playerheads/Jadc.png",
+            "image" : "modpack:textures/heads/Jadc.png",
             "posX" : -112,
             "posY" : -40,
             "width" : 46,
