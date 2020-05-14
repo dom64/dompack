@@ -124,7 +124,7 @@
         },
          "Jadbutton":
         {
-            "text" : "Jad",
+            "text" : "jad",
             "posX" : -119,
             "posY" : 76,
             "width" : 60  ,
@@ -133,7 +133,7 @@
             "action" : 
             {
                 "type" : "openLink",
-                "link" : "https://github.com/dom64"
+                "link" : "https://jad.red/"
             }
         },
           "Userbutton":
