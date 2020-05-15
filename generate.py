@@ -18,6 +18,15 @@ if manifest['minecraft']['version'] == '':
     print('Error. There is no Minecraft version specified in the manifest.json')
     exit()
 
+# Determines latest forge modloader version depending on mc version
+modLoaderData = requests.get('https://addons-ecs.forgesvc.net/api/v2/minecraft/modloader', headers=headers)
+for key in modLoaderData.json():
+    if(key['latest'] == True):
+        if(key['gameVersion'] == manifest['minecraft']['version']):
+            modLoaders = []
+            modLoaders.append({"id":key['name'], "primary":True})
+            manifest['minecraft']["modLoaders"] = modLoaders
+
 # Prepares output file
 mods = {
     'files': []
