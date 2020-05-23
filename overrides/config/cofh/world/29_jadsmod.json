@@ -1,11 +1,12 @@
 {
-    "dependencies": "jads",
 	"populate": {
 		"domcoin": {
             "enabled": "true",
 			"distribution": "uniform",
 			"generator": {
-				"block": "jads:domcoin_ore",
+				"block": {
+                    "name": "jads:domcoin_ore"
+                },
 				"material": "minecraft:stone",
 				"cluster-size": 9
 			},
