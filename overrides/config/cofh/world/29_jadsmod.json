@@ -2,6 +2,7 @@
     "dependencies": "jads",
 	"populate": {
 		"domcoin": {
+            "enabled": "true",
 			"distribution": "uniform",
 			"generator": {
 				"block": "jads:domcoin_ore",
