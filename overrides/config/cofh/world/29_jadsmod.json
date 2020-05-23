@@ -1,0 +1,25 @@
+{
+    "dependencies": "jads",
+	"populate": {
+		"domcoin": {
+			"distribution": "uniform",
+			"generator": {
+				"block": "jads:domcoin_ore",
+				"material": "minecraft:stone",
+				"cluster-size": 9
+			},
+			"cluster-count": 2,
+			"min-height": 0,
+			"max-height": 32,
+			"retrogen": false,
+			"biome": "all",
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		}
+	}
+}
