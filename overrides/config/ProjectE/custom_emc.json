@@ -1,0 +1,40 @@
+{
+  "entries": [
+    {
+      "item": "jads:chungus_flesh|0",
+      "emc": 64
+    },
+    {
+      "item": "jads:chungus_flesh_cooked|0",
+      "emc": 128
+    },
+    {
+      "item": "jads:domcoin|0",
+      "emc": 227
+    },
+    {
+      "item": "jads:domcoin_ingot|0",
+      "emc": 2048
+    },
+    {
+      "item": "jads:domcoin_block|0",
+      "emc": 18432
+    },
+    {
+      "item": "jads:record_place|0",
+      "emc": 2048
+    },
+    {
+      "item": "jads:record_chungus|0",
+      "emc": 2048
+    },
+    {
+      "item": "jads:record_chungus2|0",
+      "emc": 2048
+    },
+    {
+      "item": "jads:chungus_essence|0",
+      "emc": 139264
+    }
+  ]
+}
