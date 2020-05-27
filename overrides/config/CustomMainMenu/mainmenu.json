@@ -123,8 +123,8 @@
             "texture" : "modpack:textures/gui/buttons/chungon.png",
             "action" : 
             {
-                "type" : "openGui",
-                "gui" : "custom.placeholder"
+                "type" : "openLink",
+                "link" : "shorturl.at/sJO08"
             }
         },
         "refresh":
