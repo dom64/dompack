@@ -1,17 +1,8 @@
 {
     "name": "dompack",
     "overrides": "overrides",
-    "version": "2.0",
+    "version": "beta-1.0",
     "author": "domcord",
     "manifestType": "minecraftModpack",
-    "manifestVersion": 1,
-    "minecraft": {
-        "modLoaders": [
-            {
-                "id": "forge-14.23.5.2838",
-                "primary": true
-            }
-        ],
-        "version": "1.12.2"
-    }
-}
+    "manifestVersion": 1
+ }
