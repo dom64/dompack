@@ -7,7 +7,7 @@ A modpack for domcraft.
    * If you don't have Java, download [OpenJDK 8, HotSpot](https://adoptopenjdk.net/)
 3. Drag and drop the dompack zip into MultiMC
 4. Click `OK`
-5. `Optional` Download the [domcraft resource pack](https://raw.githubusercontent.com/dom64/dompack/master/domcraft-resourcepack.zip).
+5. `Optional` Download the [domcraft resource pack](https://github.com/dom64/dompack/blob/master/dompack-resourcepack.zip?raw=true).
 
 ## Changelogs
 Changelogs can be [found here](https://github.com/dom64/dompack/commits/master)
