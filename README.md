@@ -2,12 +2,11 @@
 A modpack for domcraft.
 
 ## Installation
-1. Open MultiMC
-2. Click `Add Instance`
-3. Click `Import from zip`
-4. Add `https://github.com/dom64/dompack/releases/download/beta-0.1/Dompack.beta-1.0.zip` in the prompt.
-5. Click `OK`
-6. `Optional` Download the [domcraft official resource pack](https://raw.githubusercontent.com/dom64/dompack/master/domcraft-official-resourcepack.zip).
+1. Download the latest release zip from the [releases page](https://github.com/dom64/dompack/releases)
+2. Open MultiMC ([available here](https://multimc.org/#Download))
+3. Drag and drop the dompack zip into MultiMC
+4. Click `OK`
+5. `Optional` Download the [domcraft official resource pack](https://raw.githubusercontent.com/dom64/dompack/master/domcraft-resourcepack.zip).
 
 ## Changelogs
 Changelogs can be [found here](https://github.com/dom64/dompack/commits/master)
