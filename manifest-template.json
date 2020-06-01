@@ -4,5 +4,8 @@
     "version": "beta-1.0",
     "author": "domcord",
     "manifestType": "minecraftModpack",
-    "manifestVersion": 1
+    "manifestVersion": 1,
+    "minecraft": {
+        "version": "1.12.2"
+    }
  }
