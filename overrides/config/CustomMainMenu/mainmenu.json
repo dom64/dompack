@@ -148,12 +148,7 @@
         {
             "text" : "file:modpack:texts/version.txt",
             "posX" : 3,
-            "posY" : 3,
-            "action" : 
-            {
-                "type" : "openLink",
-                "gui" : "https://github.com/dom64/dompack/releases"
-            }
+            "posY" : 3
         }
     },
     
