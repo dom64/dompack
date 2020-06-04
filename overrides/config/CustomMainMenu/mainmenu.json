@@ -27,7 +27,7 @@
             "action" : 
             {
                 "type" : "connectToServer",
-                "ip" : "mc.dom64.xyz"
+                "ip" : "mod.dom64.xyz"
             }
         },
                 
