@@ -8,3 +8,30 @@ Ready go!
 You lost the game
 Rabeed?
 effective. Powerلُلُصّبُلُلصّبُررً ॣ ॣh ॣ ॣ
+Non euclidean cum cube
+Use a bucket on Chungi for [Redacted]
+Undertale in Minecraft
+Brown Bricks
+My Asshole Burns!
+Bruh!
+Lil Rora on the track
+Doomcord.wad/pk3 in production now?? (No)
+Yo Mama
+Updated splashes.txt
+Jadc master coder
+There is no
+Line 23!
+Line 24!
+void Start ();
+{
+
+  public bool Funny;
+//  public bool unFunny;
+  
+    if(Funny == 0 && bigChungus == 0){
+        bigChungus ++;
+        Funny = true;
+        }
+ }
+}
+        
