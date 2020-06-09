@@ -24,14 +24,37 @@ Line 23!
 Line 24!
 void Start ();
 {
-
   public bool Funny;
 //  public bool unFunny;
-  
+{
     if(Funny == 0 && bigChungus == 0){
         bigChungus ++;
         Funny = true;
         }
  }
 }
-        
+And it go
+pfft pfft pfft pfft
+Optimus Prime
+Do The Mario!
+Brazman.org!
+raXD Fa 4 is not in development!
+Life
+He Looms Over You!
+Fix the Chungon!
+GARAGE SALE 480 DALCROSS DR
+Cracka Ass!
+Craaackaaaaas!!!!!!
+Bitch!!! BITCH!!!!!!
+Join Croatia!
+Fuck Croatia! -Dumbass
+We are robbing this house
+Finobe
+Turkish dinnerroll
+You're going to Brazil!
+Warning: Nathaniel Emmuarto has been spotted approaching the village
+first person to screenshot this splash and dm it to Brazy for a special prize
+^That does not include anyone looking at the github page
+Jad the mad lad
+Subscribe to the Raxdcast
+<--- This is how old dom is
