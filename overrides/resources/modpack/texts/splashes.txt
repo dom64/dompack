@@ -22,16 +22,13 @@ Jadc master coder
 There is no
 Line 23!
 Line 24!
-void Start ();
-{
-  public bool Funny;
+void Start(){
+    public bool funny;
 //  public bool unFunny;
-{
-    if(Funny == 0 && bigChungus == 0){
-        bigChungus ++;
-        Funny = true;
-        }
- }
+    if(funny == false && bigChungus == 0){
+        bigChungus++;
+        funny = true;
+    }
 }
 And it go
 pfft pfft pfft pfft
@@ -53,8 +50,43 @@ Finobe
 Turkish dinnerroll
 You're going to Brazil!
 Warning: Nathaniel Emmuarto has been spotted approaching the village
-first person to screenshot this splash and dm it to Brazy for a special prize
-^That does not include anyone looking at the github page
+first person to screenshot this splash and dm it to Brazy for a special prize (that does not include anyone looking at the github page)
 Jad the mad lad
 Subscribe to the Raxdcast
 <--- This is how old dom is
+slatt ! * ^
+Don't put a WeirdChamp block on top of a stick!
+Basically jadcraft
+jadcraft
+Is Jadimations still funny?
+Endorsed by Playboi Carti
+Endorsed by Pi'erre Bourne
+Endorsed by Lil Uzi Vert
+Who the fuck put ProjectE?
+There's ProjectE. Happy, Afterwave?
+Why are we taking Avaritia seriously
+Endorsed by Finland!
+SHE SUCKIN' AND FUCKIN' A TOASTER?
+Torille tavataan
+June 21, 2019
+June 21, 2020
+Great. Another kitchen sink.
+dom moment
+FUCK FUCK FUCK FUCK FUCK FUCK FUCK PENIS PENIS PUSSY PUSSY DICK DICK SHIT SHIT
+FUCK FUCK FUCK FUCK FUCK FUCK FUCK 
+PENIS PENIS 
+PUSSY PUSSY 
+DICK DICK 
+SHIT SHIT
+This isn't ironic: your dick looks weird dom.
+If you see a large white van with Lady Pank inside, DO NOT ENTER!
+I yearn for the touch of a woman...
+Hey buddy, you've been playing for 9 hours straight now...
+CHINA #1!!!
+Tip: Fluxbore > Tinker's Hammer
+The angel ring is so expensive now!
+What's "Israel?"
+FREE PALESTINE
+All in-game water is supplied by Flint, Michigan
+Draconic is balanced!
+Gizzmo supports t... oh what's the point...
