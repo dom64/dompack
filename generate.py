@@ -102,6 +102,3 @@ with open('manifest.json', 'w') as o:
     json.dump(manifest, o, sort_keys=True, indent=4)
 
 print('Done. Press ENTER to close this window.')
-
-# Pause to allow viewing of logs
-input()
