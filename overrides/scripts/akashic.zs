@@ -1,5 +1,6 @@
 print("INIT BEGIN akashic.zs");
 
+recipes.remove(<akashictome:tome>);
 var tome = <akashictome:tome> .withTag({
     "akashictome:is_morphing": 1 as byte,
     "akashictome:data": 
@@ -158,11 +159,22 @@ var tome = <akashictome:tome> .withTag({
                 Count: 1 as byte, 
                 tag: {"akashictome:definedMod": "openblocks"}, 
                 Damage: 0 as short
-            }
+            },
+            cookingforblockheads: {
+				id: "cookingforblockheads:recipe_book",
+				Count: 1 as byte,
+				tag: {
+					"akashictome:definedMod": "cookingforblockheads"
+				},
+				Damage: 1 as short
+			}
         }
 });
 
 mods.jei.JEI.addItem(tome);
 recipes.addShapeless(tome, [<minecraft:dirt>]);
+
+tome.addTooltip(format.aqua("dompack manual"));
+mods.jei.JEI.addDescription(tome, "dompack manual");
 
 print("INIT SUCCESS akashic.zs");
