@@ -1,4 +1,4 @@
-print("INIT BEGIN: angel-ring-balance.zs")
+print("INIT BEGIN angel-ring-balance.zs");
 
 recipes.remove(<extrautils2:angelring>);
 recipes.remove(<extrautils2:angelring:1>);
@@ -11,4 +11,4 @@ recipes.addShaped(<extrautils2:angelring>, [[<aether_legacy:aercloud:2>, <avarit
 recipes.remove(<extrautils2:goldenlasso>);
 recipes.addShaped(<extrautils2:goldenlasso>, [[<minecraft:gold_block>, <minecraft:string>, <minecraft:gold_block>],[<minecraft:string>, null, <minecraft:string>], [<minecraft:gold_block>, <minecraft:string>, <minecraft:gold_block>]]);
 
-print("INIT SUCCESS: angel-ring-balance.zs")
+print("INIT SUCCESS angel-ring-balance.zs");
