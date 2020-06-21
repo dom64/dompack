@@ -1,3 +1,5 @@
+print("INIT BEGIN: projecte-balance.zs")
+
 val darkmatter = <projecte:item.pe_matter:0>;
 val redmatter = <projecte:item.pe_matter:1>;
 val darkmatterBlock = <projecte:matter_block>;
@@ -207,4 +209,4 @@ mods.avaritia.ExtremeCrafting.addShaped("NAMEPLACEHOLDER", <projecte:item.pe_gem
 // Disable Watch of Flowing Time
 recipes.removeShaped(<projecte:item.pe_time_watch>, [[<projecte:item.pe_matter>, <minecraft:glowstone>, <projecte:item.pe_matter>],[<minecraft:obsidian>, <minecraft:clock>, <minecraft:obsidian>], [<projecte:item.pe_matter>, <minecraft:glowstone>, <projecte:item.pe_matter>]]);
 
-print("Loaded ProjectE balance recipes");
+print("INIT SUCCESS: projecte-balance.zs")
