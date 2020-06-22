@@ -1,7 +1,7 @@
 {
     "name": "dompack",
     "overrides": "overrides",
-    "version": "beta-1.5",
+    "version": "rc1",
     "author": "domcord",
     "manifestType": "minecraftModpack",
     "manifestVersion": 1,
