@@ -38,7 +38,7 @@ heldItemTooltips:true
 chatHeightFocused:1.0
 chatHeightUnfocused:0.44366196
 chatScale:1.0
-chatWidth:0.57042253
+chatWidth:1.0
 mipmapLevels:0
 forceUnicodeFont:false
 reducedDebugInfo:false
