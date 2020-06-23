@@ -33,4 +33,8 @@ recipes.remove(<cyclicmagic:tool_warp_home>);
 recipes.remove(<cyclicmagic:corrupted_chorus>);
 recipes.remove(<cyclicmagic:tool_warp_spawn>);
 
+recipes.remove(<randomthings:floopouch>);
+recipes.remove(<randomthings:floosign>);
+recipes.remove(<randomthings:flootoken>);
+recipes.remove(<randomthings:ingredient:7>);
 print("INIT SUCCESS banned.zs");
