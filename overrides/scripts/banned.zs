@@ -22,7 +22,6 @@ recipes.remove(<randomthings:spectreanchor>);
 
 recipes.remove(<cyclicmagic:tool_elevate>);
 recipes.remove(<cyclicmagic:heart_food>);
-recipes.remove(<cyclicmagic:heart_toxic>);
 recipes.remove(<cyclicmagic:chest_sack_empty>);
 recipes.remove(<cyclicmagic:robot_spawner>);
 recipes.remove(<cyclicmagic:tool_prospector>);
