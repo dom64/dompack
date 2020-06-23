@@ -1,7 +1,5 @@
-//This file was created via CT-GUI! Editing it is not advised!
-//Don't touch me!
-//#Remove
-//Don't touch me!
-//#Add
+print("INIT BEGIN chance-cube-recipe.zs");
+
 recipes.addShaped(<chancecubes:chance_cube>, [[<minecraft:lapis_block>, <minecraft:lapis_block>, <minecraft:lapis_block>],[<minecraft:lapis_block>, <minecraft:diamond_block>, <minecraft:lapis_block>], [<minecraft:lapis_block>, <minecraft:lapis_block>, <minecraft:lapis_block>]]);
-//File End
+
+print("INIT SUCCESS chance-cube-recipe.zs");
