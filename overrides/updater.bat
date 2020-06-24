@@ -1,0 +1,1 @@
+rclone sync --include-from include updater: . -P

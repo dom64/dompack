@@ -1,0 +1,5 @@
+config/**
+mods/**
+resources/**
+scripts/**
+servers.dat
