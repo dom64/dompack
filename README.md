@@ -15,6 +15,10 @@ A modpack for domcraft.
 3. Click `OK`
    * If you get the error "Job 'Mod download' failed to process," try again
 
+## Updating
+ 1. Go to installation folder
+ 2. Open "Updater.bat"
+
 ## Resource Pack
 If you want to, you can try out the domcraft resource pack, courtesy of Biggie.  
 [domcraft resource pack](https://github.com/dom64/dompack/blob/master/dompack-resourcepack.zip?raw=true).
