@@ -17,7 +17,7 @@ A modpack for domcraft.
 
 ## Updating
  1. Go to installation folder
- 2. Open "Updater.bat"
+ 2. Open `Updater.bat`
 
 ## Resource Pack
 If you want to, you can try out the domcraft resource pack, courtesy of Biggie.  
