@@ -6,7 +6,7 @@ recipes.remove(<notenoughwands:master_protection_wand>);
 
 recipes.remove(<icbmclassic:bombcart>);
 
-recipes.remove(<randomthings:obsidianskul>);
+recipes.remove(<randomthings:obsidianskull>);
 recipes.remove(<randomthings:obsidianskullring>);
 recipes.remove(<randomthings:spectrecoil_normal>);
 recipes.remove(<randomthings:spectrecoil_redstone>);
