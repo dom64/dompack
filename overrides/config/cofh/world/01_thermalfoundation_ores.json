@@ -136,11 +136,11 @@
 					}
 				},
 				"material": "minecraft:stone",
-				"cluster-size": 4
+				"cluster-size": 8
 			},
-			"cluster-count": 2,
+			"cluster-count": 7,
 			"min-height": 5,
-			"max-height": 20,
+			"max-height": 50,
 			"retrogen": "true",
 			"biome": "all",
 			"dimension": {
