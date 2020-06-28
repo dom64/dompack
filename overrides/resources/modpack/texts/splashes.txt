@@ -104,3 +104,6 @@ Tip: Use Magmatic Dynamos instead of Magmatic Generators!
 Do not abuse WebDisplays!
 dompack/overrides/resources/modpack/texts/splashes.txt!
 Scatman's World!
+MLG minecraft
+jadpack but awesome
+modpack bad vanilla good
